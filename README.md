@@ -10,7 +10,7 @@
 
 > Before we start the mining node, there is now a live Ping Pong x MorphL2 campaign that you can participate-in just by claiming and staking tokens without running a node
 >
-> 1- Connect your wallet: https://app.pingpong.build/points?invite_code=yc76BLjH
+> 1- Connect your wallet [here](https://app.pingpong.build/points?invite_code=yc76BLjH)
 >
 > 2- Claim a daily mLPT & mGRT token faucet on Holesky Network in `Points` tab
 >
