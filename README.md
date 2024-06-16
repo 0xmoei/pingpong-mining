@@ -68,17 +68,16 @@ docker run hello-world
 ```
 
 ## 3- Run
-```console
-# Start a screen
-screen -S pong
-```
-
 > Add a device in [dashboard](https://harvester.pingpong.build/devices)
 >
 > Copy your Device ID
 >
 > ![Screenshot_1](https://github.com/0xmoei/pingpong-mining/assets/90371338/1b8a0269-8cf9-4eec-bab7-66744a933ffb)
 
+```console
+# Start a screen
+screen -S pong
+```
 
 ```console
 # Replace DEVICE_ID with your ID you copied
