@@ -68,8 +68,8 @@ docker run hello-world
 ```
 
 ## 3- Run
-# Start a screen
 ```console
+# Start a screen
 screen -S pong
 ```
 
