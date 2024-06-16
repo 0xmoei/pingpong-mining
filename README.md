@@ -90,7 +90,7 @@ chmod +x ./PINGPONG && ./PINGPONG --key DEVICE_ID
 >
 > ![Screenshot_2](https://github.com/0xmoei/pingpong-mining/assets/90371338/0d1a0882-4063-4f5a-b27d-d8bb8d07fe4b)
 >
-> Remember to put your Mining priority to Usage in dashboard
+> Remember to switch to Usage Priority in dashboard
 >
 > ![Screenshot_1](https://github.com/0xmoei/pingpong-mining/assets/90371338/20fa6191-9101-4c4d-8527-0fa9427f4cef)
 >
