@@ -90,7 +90,7 @@ chmod +x ./PINGPONG && ./PINGPONG --key DEVICE_ID
 >
 > Check the results here ( You are farming AIOZ , MASQ , TITAN tokens and PPP points)
 >
-> ![Screenshot_2](https://github.com/0xmoei/pingpong-mining/assets/90371338/0d1a0882-4063-4f5a-b27d-d8bb8d07fe4b)
+> ![Screenshot_2](https://github.com/0xmoei/pingpong-mining/assets/90371338/288f4c94-ad1a-4e0d-bdf6-71140255c6f8)
 >
 > Remember to switch to Usage Priority in dashboard
 >
