@@ -1,3 +1,5 @@
+![Screenshot_1](https://github.com/0xmoei/pingpong-mining/assets/90371338/550cca87-c057-42c3-92e4-96c22102abf0)
+
 <h1 align="center"> PingPong Reward Program </h1>
 
 > We are going to run a PingPong Mining Node in this tutorial
