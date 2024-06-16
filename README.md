@@ -14,7 +14,7 @@
 >
 > 2- Claim a daily mLPT & mGRT token faucet on Holesky Network in `Points` tab
 >
-> 3- You can do `Boost Your Rewards` section to increase your daily faucet
+> 3- You can do the tasks in `Boost Your Rewards` section to increase your daily faucet
 >
 > 4- Bridge tokens to MorphL2: https://app.pingpong.build/bridge
 >
@@ -89,6 +89,10 @@ chmod +x ./PINGPONG && ./PINGPONG --key DEVICE_ID
 > Check the results here ( You are farming AIOZ , MASQ , TITAN tokens and PPP points)
 >
 > ![Screenshot_2](https://github.com/0xmoei/pingpong-mining/assets/90371338/0d1a0882-4063-4f5a-b27d-d8bb8d07fe4b)
+>
+> Remember to put your Mining priority to Usage in dashboard
+>
+> ![Screenshot_1](https://github.com/0xmoei/pingpong-mining/assets/90371338/20fa6191-9101-4c4d-8527-0fa9427f4cef)
 >
 >  You can now add more to run on more devices
 >
